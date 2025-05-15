@@ -7,7 +7,6 @@ Full Stack Web Developer
 I'm a developer with four years of coding experience through my university studies, where I was introduced to programming fundamentals through languages like C and C#. While I’m not an expert in these, they gave me a solid understanding of programming principles and the importance of structure and efficiency in code. Where I really found my enthusiasm, though, is in web development, which I pursued independently outside of my university curriculum. Teaching myself both frontend and backend skills, I discovered how rewarding it is to build interactive, functional applications from the ground up. Whether it’s crafting user-friendly interfaces on the frontend or setting up efficient, secure backend systems, web development has become the field where I feel most at home. Here on GitHub, you’ll find projects that capture this learning journey. I’m always experimenting with new frameworks, libraries, and techniques, and constantly looking for ways to improve my skills. My goal is to keep growing as a developer and to build web applications that are both useful and well-crafted.
 
 * 🌍  I'm based in Greece
-* 🖥️  See my portfolio at [MyPortfolio](http://matthaios-tsintsinis.github.io/portfolio/)
 * ✉️  You can contact me at [mantsintsinis@gmail.com](mailto:mantsintsinis@gmail.com)
 
 <a href="https://www.github.com/Matthaios-Tsintsinis" target="_blank" rel="noreferrer"><img
